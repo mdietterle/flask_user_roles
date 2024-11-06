@@ -1,0 +1,13 @@
+[project]
+name = "flaskuserroles"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "flask-ext>=0.1",
+    "flask-login>=0.6.3",
+    "flask-principal>=0.4.0",
+    "flask>=3.0.3",
+    "ruff>=0.7.2",
+]
